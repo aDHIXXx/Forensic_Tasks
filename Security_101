@@ -3,9 +3,9 @@ This one was a awesome....phew
 So first one has to unzip Security_101.zip
 It now gives us a my_inspiration.jpg and another zip file my_secure_file.zip
 But my_secure-file.zip is password protected. 
-THe clue to crack it is given in both the question "Nerd : Some people keep their username as password. Why would they do that ? Me : Hmm ..." .
+THe clue to crack it is given in the question "Nerd : Some people keep their username as password. Why would they do that ? Me : Hmm ..." .
 So I exiftooled the my_inspirationa.jpg ---> CMD: exiftool my_inspiration.jpg
-And luckily after a whole day, the bell rang ----> Creator:R3DDIT_US3R 
+And luckily after a whole day, the bell finally rang in my head that username can be the creator of the jpg ----> Creator:R3DDIT_US3R 
 I used R3DDIT_US3R as the password to unzip the my_secure_file.zip and it WORKED!!
 It opened up to give secure.jpg which had the flag :inctfj{1ts_4ll_f1ne_tru5t_m3}
 
