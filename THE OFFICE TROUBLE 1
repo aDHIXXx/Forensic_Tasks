@@ -1,0 +1,5 @@
+Unzipping the clients.zip
+Password for clients.zip was found by using fcrackzip with rockyou.txt
+Cmd used : fcrackzip -b -D -p rockyou.txt -u clients.zip           ------>I had saved the downloaded file as clients.zip for easy access
+We get pwd as: perfectlypunk 
+It unzips to give a the_officejpg which contains the flag :inctfj{dw1ght_1s_cr4zy_bu7_awesome}
