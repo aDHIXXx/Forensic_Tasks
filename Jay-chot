@@ -1,0 +1,7 @@
+Jay Chot
+The jpg imge was not opening as it contained some errors
+So I downloaded it and ghexed it
+CMD :ghex Jay.jpg
+The  magic number of JPG was written wrongly as: FF D9 FF EO
+So I corrected it as FF D8 FF EO and it OPENED!!!
+flag from image :flag{a4aa04741a8d3a952a7ec88457991b97}
