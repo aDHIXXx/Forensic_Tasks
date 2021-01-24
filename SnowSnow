@@ -1,7 +1,7 @@
 Snow Snow
-I think it has to so with white space stegnography  -------> Refered bi0s.wiki 
+I think it has to do with white space stegnography  -------> Refered bi0s.wiki 
 So i used stegsnow but couldn't understand what to put inside " "
 So I used this cmd (was just a trial) stegsnow -C  Snow.txt
 But got : ntio{eP1B35x4K3_aB3O0_q5_K00t}, as the flag 
-As flag format is already given , I ROT with 8 to gat the correct flag
+As flag format is already given , I ROT with 8 to get the correct flag
 flag{wH1T35p4C3_sT3G0_i5_C00l}
